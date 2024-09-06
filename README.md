@@ -1,36 +1,27 @@
-# 🅰️ PsnStoreClone
+# PsnStoreClone
 
-Um clone da loja da PlayStation feita com Angular
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
 
-## Sobre o Projeto
+## Development server
 
-Este projeto é um clone da loja da PlayStation feita com o framework Angular. O objetivo é criar uma aplicação web que simule a experiência de navegação da loja da PlayStation.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Funcionalidades
+## Code scaffolding
 
-* Navegação por diferentes seções da loja (jogos, promoções, etc.)
-* Exibição de detalhes de jogos e promoções
-* Design responsivo para diferentes dispositivos
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Tecnologias Utilizadas
+## Build
 
-* Angular
-* HTML
-* CSS
-* TypeScript
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Como Executar o Projeto
+## Running unit tests
 
-1. Clone o repositório para o seu computador
-2. Instale as dependências necessárias com o comando `npm install`
-3. Execute o comando `ng serve` para iniciar o servidor de desenvolvimento
-4. Acesse a aplicação em `http://localhost:4200/`
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Contribuição
+## Running end-to-end tests
 
-Se você deseja contribuir para o projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Licença
+## Further help
 
-Este projeto é licenciado sob a licença MIT.
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
