@@ -1,27 +1,25 @@
-# PsnStoreClone
+# PlayStation Store Home Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
+Este projeto é uma simulação da página inicial da PlayStation Store, desenvolvido com Angular. O objetivo é replicar o layout e a navegação da página, utilizando os principais conceitos e boas práticas de desenvolvimento front-end com Angular.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Menu de navegação interativo**: Simula a navegação da PlayStation Store com categorias como jogos, assinaturas, promoções e outros.
+- **Cards de jogos**: Exibe uma galeria de cards de jogos com imagens, preços e informações principais.
+- **Sistema de busca**: Permite buscar por jogos ou produtos na página.
+- **Filtros dinâmicos**: Opções para filtrar jogos por categoria, preço e gênero.
+- **Responsividade**: Layout ajustável para diferentes dispositivos (desktop, tablet e mobile).
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular**: Estrutura principal do projeto.
+- **TypeScript**: Linguagem de programação utilizada no desenvolvimento.
+- **HTML5 e CSS3**: Para construção do layout e estilização.
+- **RxJS**: Para trabalhar com programação reativa e observables.
+- **Angular Router**: Para navegação entre diferentes seções da aplicação.
 
-## Build
+## Instalação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/playstation-store-clone.git
