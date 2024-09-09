@@ -20,12 +20,12 @@ Este projeto é uma simulação da página inicial da PlayStation Store, desenvo
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/joschonarth/playstation-store-clone.git
+git clone https://github.com/joschonarth/angular-psn-store-clone
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd playstation-store-clone
+cd angular-psn-store-clone
 ```
 
 3. Instale as dependências do Node:
